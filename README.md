@@ -14,19 +14,19 @@ This repository contains the codes of the  KTL-DDS.
 
   
 
-> [1] Wang, Qian, and Toby Breckon. "Unsupervised domain adaptation via structured prediction based selective pseudo-labeling." *Proc. AAAI Conf. Artif. Intell.*. Vol. 34. No. 04. 2020.
+> [1] Wang, Qian, and Toby Breckon. "Unsupervised domain adaptation via structured prediction based selective pseudo-labeling." *Proc. AAAI Conf. Artif. Intell.*. Vol. 34. No. 04. 2020.  
 
 ## Citation
 
-The article has been accepted for publication in a future issue of "IEEE/CAA J. Autom. Sinica".
+The article has been accepted for publication in a future issue of "IEEE/CAA J. Autom. Sinica".  
 
-> @article{zheng2022domain,
->   	title={Knowledge Transfer Learning via Dual Density Sampling for Resource-Limited Domain Adaptation},
->   	author={Zheng, Zefeng and Teng, Luyao and Zhang, Wei and Wu, Naiqi and Teng, Shaohua},
->   	journal={IEEE/CAA J. Autom. Sinica},
->   	volume={},
->   	number={},
->   	pages={},
->   	year={},
->   	note={In press},
+> @article{zheng2022domain,  
+>   	title={Knowledge Transfer Learning via Dual Density Sampling for Resource-Limited Domain Adaptation},  
+>   	author={Zheng, Zefeng and Teng, Luyao and Zhang, Wei and Wu, Naiqi and Teng, Shaohua},  
+>   	journal={IEEE/CAA J. Autom. Sinica},  
+>   	volume={},  
+>   	number={},  
+>   	pages={},  
+>   	year={},  
+>   	note={In press},  
 > }
