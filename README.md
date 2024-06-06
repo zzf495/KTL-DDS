@@ -21,7 +21,7 @@ This repository contains the codes of the  KTL-DDS.
 > @ARTICLE{10302459,  
 > author={Zheng, Zefeng and Teng, Luyao and Zhang, Wei and Wu, Naiqi and Teng, Shaohua},  
 > journal={IEEE/CAA Journal of Automatica Sinica},   
-> title={Knowledge Transfer Learning via Dual Density Sampling for Resource-Limited Domain Adaptation}, 
+> title={Knowledge Transfer Learning via Dual Density Sampling for Resource-Limited Domain Adaptation},  
 > year={2023},  
 > volume={10},  
 > number={12},  
