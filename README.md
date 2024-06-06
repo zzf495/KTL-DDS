@@ -18,15 +18,13 @@ This repository contains the codes of the  KTL-DDS.
 
 ## Citation
 
-The article has been accepted for publication in a future issue of "IEEE/CAA J. Autom. Sinica".  
-
-> @article{zheng2022domain,  
->   	title={Knowledge Transfer Learning via Dual Density Sampling for Resource-Limited Domain Adaptation},  
->   	author={Zheng, Zefeng and Teng, Luyao and Zhang, Wei and Wu, Naiqi and Teng, Shaohua},  
->   	journal={IEEE/CAA J. Autom. Sinica},  
->   	volume={},  
->   	number={},  
->   	pages={},  
->   	year={},  
->   	note={In press},  
+> @ARTICLE{10302459,  
+> author={Zheng, Zefeng and Teng, Luyao and Zhang, Wei and Wu, Naiqi and Teng, Shaohua},  
+> journal={IEEE/CAA Journal of Automatica Sinica},   
+> title={Knowledge Transfer Learning via Dual Density Sampling for Resource-Limited Domain Adaptation}, 
+> year={2023},  
+> volume={10},  
+> number={12},  
+> pages={2269-2291},  
+> doi={10.1109/JAS.2023.123342}  
 > }
